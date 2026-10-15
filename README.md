@@ -1,1 +1,1 @@
-Mod Anti-Ban ( qui a été supprimé ) Donc j'me permet d'le mettre ici ( pour ceux qui veulent )
+Plugins qui permet de cachées ses mods côté ( serveur ) qui fais en sorte que tes plugins mis sur minecraft launcher ou modrinth tout ce que tu veux ne sont pas détecté et invisible côté serveur.
